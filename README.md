@@ -1,5 +1,9 @@
 # xbiod-javascript-library
 
+## For xBio:D users who want complete documentation
+See the [xBio:D Javascript Library Documentation](http://xbiod.osu.edu/osucWiki/XBio%3AD_Javascript_Library_Reference).
+See the [wiki](http://www.xbiod.osu.edu/wiki).
+
 ## What is the xBio:D (trans-biodiversity) Javascript Library?
 
 The xBio:D JS library is used for coupling the xBio:D Database with front end web development. It can:
